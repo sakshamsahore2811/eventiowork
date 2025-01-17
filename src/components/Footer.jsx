@@ -13,7 +13,7 @@ function Footer() {
             <div className="font-bold underline">Product</div>
             <div className="text-gray-300 font-light"><Link to="/">Documentation</Link></div>
             <div className="text-gray-300 font-light"><Link to="/">Youtube</Link></div>
-            <div className="text-gray-300 font-light"><Link to="/">Shopify App Store</Link></div>
+            <div className="text-gray-300 font-light"><Link to="https://apps.shopify.com/eventio">Shopify App Store</Link></div>
         </div>
         <div className="text-lg">
         <div className="font-bold underline">Contact</div>
