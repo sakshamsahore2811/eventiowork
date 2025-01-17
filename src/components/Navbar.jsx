@@ -23,7 +23,7 @@ function Navbar() {
             Privacy Policy
             </a>
           </div>
-          <Link to="/" className="text-black rounded-xl hover:text-purple-600 p-2 bg-white">
+          <Link to="https://apps.shopify.com/eventio" className="text-black rounded-xl hover:text-purple-600 p-2 bg-white">
             Get the App
           </Link>
         </div>
