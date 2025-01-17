@@ -53,7 +53,9 @@ function Home() {
             </div>
             <div className="pt-8 text-center">
               <button className="text-xl shadow-2xl font-sans bg-purple-800 p-3 rounded-lg ">
+                <a href="https://apps.shopify.com/eventio" target="_blank">
                 Install the app
+                  </a>
               </button>
             </div>
           </div>
